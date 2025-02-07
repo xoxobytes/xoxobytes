@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @xoxobytes
-- 👀 I’m interested in everything internet
-- 🌱 I’m currently really just starting off my coding journey
-- 💞️ I’m looking to collaborate with all like minds to create innovative projects 
+- 👋 Hi, I’m Precival
+- 🤝 I’m looking to collaborate with all like minds to create innovative projects 
 - 📫 How to reach me: my email: amosprecious45@gmail.com
 
 <!---
